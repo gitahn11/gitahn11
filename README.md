@@ -1,9 +1,9 @@
 <h1>Hi, I'm Ali! 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻Projects:</h2>
 
-- <b>Cybersecurity Project 1</b>
-  - [Name of Project](https://github.com/gitahn11/Wireshark-Project)
+- <b>[Personal HTML/CSS Website](https://gitahn11.github.io/Website/) </b>
+    - [Index.html](https://github.com/gitahn11/Website/blob/Main2.0/index.html)
 
 <h2>🌱 Certiications: </h2>
 
