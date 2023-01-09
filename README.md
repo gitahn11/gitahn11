@@ -3,7 +3,7 @@
 <h2>👨‍💻Projects:</h2>
 
 - <b>[Personal HTML/CSS Website](https://gitahn11.github.io/Website/) </b>
-    - [Index.html](https://github.com/gitahn11/Website/blob/Main2.0/index.html)
+    - [HTML Code](https://github.com/gitahn11/Website/blob/Main2.0/index.html)
 
 <h2>🌱 Certiications: </h2>
 
