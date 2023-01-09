@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Cybersecurity Project 1</b>
-  - [Name of Project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Name of Project](https://github.com/gitahn11/Wireshark-Project)
 
 <h2>🌱 Certiications: </h2>
 
