@@ -9,6 +9,8 @@
 
 - <b>[CompTIA Security+](https://github.com) </b>
 - <b>[Qualys Vulnerabilty Management Detection & Response](https://github.com/gitahn11/gitahn11/blob/main/Certifications/coursecompletion%20(4).pdf) </b>
+- <b>[Qualys Vulnerabilty Management](https://github.com/gitahn11/gitahn11/blob/main/Certifications/coursecompletion%20(5).pdf) </b>
+
 
 <h2>📺 YouTube Videos </h2>
 
