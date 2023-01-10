@@ -5,7 +5,7 @@
 - <b>[Personal HTML/CSS Website](https://gitahn11.github.io/Website/) </b>
     - [HTML Code](https://github.com/gitahn11/Website/blob/Main2.0/index.html)
 
-<h2>🌱 Certiications: </h2>
+<h2>🌱 Certifications: </h2>
 
 - <b>[CompTIA Security+](https://github.com/gitahn11/gitahn11/blob/main/Certifications/CompTIA%20Security%2B%20ce%20certificate.pdf) </b>
 - <b>[CompTIA Network+](https://github.com/gitahn11/gitahn11/blob/main/Certifications/CompTIA%20Network%2B%20ce%20certificate.pdf) </b>
