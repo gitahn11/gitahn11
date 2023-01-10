@@ -20,7 +20,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-- <b> (anaqvi1694@gmail.com) </b>
+- <b> anaqvi1694@gmail.com </b>
 
 <!--
 **Gitahn11/Gitahn11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
