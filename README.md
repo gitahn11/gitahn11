@@ -19,7 +19,7 @@
 
 <h2>📺 YouTube Videos </h2>
 
-- [Walkthrough of my Cybersecurity Project](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Walkthrough of my Cybersecurity Project](https://www.youtube.com)
 
 
 <h2> 🤳 Connect with me:</h2>
